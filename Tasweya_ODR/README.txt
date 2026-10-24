@@ -26,17 +26,6 @@ Mohamed Kamel: Vision document, stakeholder identification, Process A diagram, J
 Ammar Kassem :Functional requirements, elicitation techniques, Process B diagram |
 Ali Mohamed  : Interview agendas, questionnaire, GitHub repository, final assembly |
 
-## Repository structure
-
-```
-tasweya-odr/
-  README.md
-  deliverable-1/
-    report/          # final technical report (PDF)
-    diagrams/        # StarUML .mdj files and exported images
-    interviews/      # interview agendas and notes
-    questionnaire/   # questionnaire and collected results
-```
 
 
 
